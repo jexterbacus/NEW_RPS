@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>dog-chuckle1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 0}, {156, 224}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 678}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-chuckle2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 0}, {156, 224}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-fall1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {150, 216}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 678}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-fall2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {150, 216}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 678}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-idle1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 0}, {164, 224}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 452}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-idle2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 0}, {160, 224}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 452}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-idle3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 0}, {164, 224}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 226}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-idle4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 2}, {166, 222}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 678}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-match-lose-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {178, 218}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 452}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-prep-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 2}, {154, 222}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 226}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 226}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 226}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 0}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 0}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 452}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose6-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 0}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose7-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 452}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose8-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 226}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-round-lose9-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {168, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 678}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dog-throw-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 4}, {164, 220}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 224}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 0}, {200, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.4</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>dog-hd.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>dog-hd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>dog-hd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

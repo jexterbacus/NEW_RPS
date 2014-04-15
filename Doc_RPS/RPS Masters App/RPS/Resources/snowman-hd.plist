@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>snowman-fall1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 16}, {148, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 1055}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-fall2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 0}, {140, 209}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 1688}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-fall3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 7}, {152, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 422}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-idle1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 6}, {170, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{726, 1477}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-idle2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 6}, {170, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 1477}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-idle3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {156, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 844}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-idle4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {154, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{484, 1477}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-idle5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {154, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 633}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-idle6-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {154, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{484, 633}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-idle7-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {156, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{726, 844}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-idle8-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 6}, {170, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 211}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-match-lose1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 34}, {190, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{484, 422}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-match-lose2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 42}, {226, 167}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{726, 633}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-match-lose3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 50}, {240, 159}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{726, 1266}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-paper1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {202, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{726, 211}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-paper2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {202, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 0}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-paper3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {202, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 1055}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-prep1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {142, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 211}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-prep2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {170, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{726, 1055}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-prep3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {142, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{484, 844}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-prep4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {170, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 1266}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-prep5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 4}, {148, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{484, 1266}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-rock1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {204, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-rock2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {204, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 422}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-rock3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {204, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 1477}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-round-lose1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 34}, {172, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 844}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-round-lose2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 42}, {194, 167}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 1688}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-round-lose3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 50}, {198, 159}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 633}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-round-win1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 4}, {148, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{484, 1055}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-round-win2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 4}, {140, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{242, 1266}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-round-win3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 4}, {140, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{484, 0}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-scissors1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {202, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{726, 0}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-scissors2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {202, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{726, 422}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>snowman-scissors3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {202, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{240, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 209}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{484, 211}, {240, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.4</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 2048}</string>
+		<key>name</key>
+		<string>snowman-hd.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>snowman-hd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>snowman-hd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

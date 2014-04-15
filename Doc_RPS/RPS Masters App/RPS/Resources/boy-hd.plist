@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>boy-fall-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 16}, {136, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 223}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-idle1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 3}, {106, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 223}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-idle2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 1}, {108, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 0}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-idle3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 3}, {106, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 446}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-idle4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 3}, {104, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 446}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-idle5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 3}, {104, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 446}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-idle6-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 1}, {104, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 0}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-idle7-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 3}, {106, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 669}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-match-lose1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 8}, {118, 213}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 669}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-match-lose2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 17}, {128, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 669}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-paper-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 3}, {130, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 223}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-prep1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 1}, {108, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 892}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-prep2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 1}, {122, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 0}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-prep3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 1}, {108, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 223}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-prep4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 1}, {122, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 0}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-prep5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 5}, {106, 215}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 446}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-rock-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 3}, {120, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 892}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-round-lose1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 8}, {110, 213}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 223}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-round-lose2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 48}, {164, 173}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 669}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-round-win1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 2}, {104, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 669}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-round-win2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 0}, {104, 221}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 446}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy-scissors-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 3}, {128, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 221}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {200, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.4</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 2048}</string>
+		<key>name</key>
+		<string>boy-hd.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>boy-hd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>boy-hd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

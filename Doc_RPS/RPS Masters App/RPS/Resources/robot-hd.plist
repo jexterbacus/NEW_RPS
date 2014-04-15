@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>robot-fall1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {126, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 402}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-fall2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 0}, {116, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1010, 603}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-fall3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 0}, {120, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1818, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-idle1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {124, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 201}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-idle2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 10}, {126, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-idle3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 6}, {126, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1010, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-idle4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 6}, {126, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 402}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-idle5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 2}, {126, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1010, 402}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-idle6-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 0}, {126, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 201}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-match-lose1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 10}, {162, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 804}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-match-lose2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 18}, {162, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1212, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-match-lose3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 20}, {162, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 804}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-match-lose4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 20}, {162, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 603}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-match-lose5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 18}, {162, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1010, 804}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-paper1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 2}, {146, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 804}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-paper2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 0}, {146, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-paper3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {146, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 804}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-prep1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {126, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 402}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-prep2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 2}, {126, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1212, 804}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-prep3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 2}, {126, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 402}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-prep4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {126, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1414, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-prep5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 0}, {116, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-rock1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 2}, {146, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 603}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-rock2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 0}, {146, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1616, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-rock3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {146, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{202, 201}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-lose1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 24}, {136, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 603}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-lose2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 20}, {136, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 201}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-lose3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 20}, {136, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1212, 603}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-lose4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 8}, {136, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1212, 201}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-lose5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 22}, {136, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1010, 201}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-win1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 0}, {124, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1414, 201}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-win2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 0}, {116, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 603}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-win3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 0}, {116, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 804}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-win4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 0}, {118, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{606, 402}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-round-win5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 0}, {116, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-scissors1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 2}, {146, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{808, 201}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-scissors2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 0}, {146, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 0}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-scissors3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {146, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1212, 402}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>robot-speed-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {136, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{200, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 199}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 603}, {200, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.4</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>name</key>
+		<string>robot-hd.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>robot-hd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>robot-hd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

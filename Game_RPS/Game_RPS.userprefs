@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\C#\MainMenuScripts\CreateRoom.cs">
+    <Files>
+      <File FileName="Assets\Scripts\C#\MainMenuScripts\CreateRoom.cs" Line="76" Column="56" />
+      <File FileName="Assets\Scripts\C#\MainMenuScripts\DashBoardScript.cs" Line="110" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>waitress1-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 0}, {85, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{655, 0}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress10-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 0}, {89, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{131, 0}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress11-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 2}, {89, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 193}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress12-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 2}, {89, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{262, 193}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress2-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 0}, {95, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{524, 0}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress3-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 0}, {95, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{393, 0}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress4-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {99, 187}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{524, 193}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress5-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {97, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{262, 0}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress6-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 0}, {95, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress7-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 0}, {93, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{655, 193}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress8-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 0}, {93, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{131, 193}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>waitress9-hd.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 0}, {93, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{129, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 191}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{393, 193}, {129, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.4</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>waitress-hd.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>waitress-hd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>waitress-hd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
