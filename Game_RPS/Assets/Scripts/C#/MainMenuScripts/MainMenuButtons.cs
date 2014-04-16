@@ -18,6 +18,8 @@ public class MainMenuButtons : MonoBehaviour {
 	// GUI multiplier
 	public int sizegui = 2;
 
+	public int playerMoney = 50000;
+
 	// temp possition/scale
 	public float posx;
 	public float posy;
@@ -37,6 +39,7 @@ public class MainMenuButtons : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		PhotonNetwork.playerName = PlayerPrefs.GetString ("playerName");
+		PlayerPrefs.SetInt ("PlayerMoney", playerMoney);
 	}
 
 	void OnGUI () {

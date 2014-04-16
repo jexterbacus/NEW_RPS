@@ -34,7 +34,7 @@ public class CreateRoom : MonoBehaviour {
 	public string roomName;
 	public string wager;
 	private int wagerInt;
-	public int pot = 10000;
+	public int pot;
 	public int player = 2;
 	void Awake () 
 	{
@@ -77,12 +77,13 @@ public class CreateRoom : MonoBehaviour {
 			RoomOptions options = new RoomOptions();
 			options.maxPlayers = player * 2;
 			options.customRoomProperties = new ExitGames.Client.Photon.Hashtable();
-			options.customRoomProperties.Add("pot" ,3333333);
-			options.customRoomProperties.Add("wage" ,333);
 			string[] ss = new string[2];
 			ss[0] = "pot";
 			ss[1] = "wage";
 			options.customRoomPropertiesForLobby = ss;
+			options.customRoomProperties.Add("pot" ,pot);
+			options.customRoomProperties.Add("wage" ,wagerInt);
+
 			PhotonNetwork.CreateRoom(roomName, options, TypedLobby.Default);
 			StartCoroutine(CloseBoard ());
 		}
@@ -114,6 +115,7 @@ public class CreateRoom : MonoBehaviour {
 		{
 			wagerInt = Mathf.Clamp(temp, 0, max);
 		}
+		pot = wagerInt * (player * 2);
 		//else if (text == "") wagerInt = 0;
 		GUI.Label(new Rect (225, 420, 300, 50), "Pot: " + pot);
 	}
@@ -147,7 +149,7 @@ public class CreateRoom : MonoBehaviour {
 	}
 	void OnJoinedRoom ()
 	{
-		print ("JOINT");
+		Application.LoadLevel ("Chart");
 	}
 
 }

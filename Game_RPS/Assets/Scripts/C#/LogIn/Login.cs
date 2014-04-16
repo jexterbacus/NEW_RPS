@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Login : MonoBehaviour {
-	static int guiDepth = 0;
+//	static int guiDepth = 0;
 	public GUISkin skinGui;
 	// the GUI scale ratio
 	public float guiRatioX;
@@ -96,10 +96,5 @@ public class Login : MonoBehaviour {
 
 		PlayerPrefs.SetString ("playerName", playerName);
 		Application.LoadLevel ("MainMenu");
-	}
-
-	// Update is called once per frame
-	void Update () {
-	
 	}
 }

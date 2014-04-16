@@ -33,10 +33,11 @@ public class DashBoardScript : MonoBehaviour {
 	private Rect windowRect3;
 	
 	// for Photon_________
-	private string roomName = "myRoom";
+	//private string roomName = "myRoom";
 	private Vector2 scrollPos = Vector2.zero;
 	public bool imageOn = false;
 	public Texture texture1;
+	public int playerMoney;
 	
 	void Awake (){
 		sWidth = Screen.width;
@@ -55,7 +56,7 @@ public class DashBoardScript : MonoBehaviour {
 	}
 	
 	void Start (){
-		
+		playerMoney = PlayerPrefs.GetInt ("PlayerMoney");
 	}
 	
 	void OnGUI() {
@@ -65,7 +66,8 @@ public class DashBoardScript : MonoBehaviour {
 		//________Group__________
 		GUI.BeginGroup(new Rect(groupmovex, 0, 800, 600));
 		selGridInt = GUI.SelectionGrid (new Rect (48, 0, 345, 65),selGridInt, selNames, 2);
-		
+		GUI.Label (new Rect (350, 15, 345, 65), "" + playerMoney);
+
 		if (GUI.changed) {
 			GUI.BringWindowToFront (selGridInt);
 		}
@@ -98,7 +100,7 @@ public class DashBoardScript : MonoBehaviour {
 		}
 		//if (PhotonNetwork.room != null)
 
-		GUILayout.BeginArea(new Rect(0, 10, 413, 500));
+		GUILayout.BeginArea(new Rect(0, 10, 700, 500));
 		if (PhotonNetwork.GetRoomList().Length == 0)
 		{
 			GUILayout.Label("..no games available..");
@@ -112,9 +114,14 @@ public class DashBoardScript : MonoBehaviour {
 
 				//string wager = game.customProperties.GetObjectData("wage");
 				//GUILayout.BeginHorizontal();
-				if (GUILayout.Button (game.name + "  " + game.playerCount + " / " + game.maxPlayers + " / " + game.customProperties["pot"] + " / " + game.customProperties["wage"], listStyle))
+				int wage = (int)game.customProperties["wage"];
+				int pot = (int)game.customProperties["pot"];
+				if (GUILayout.Button (game.name + "  " + game.playerCount + " / " + game.maxPlayers + " / " + pot + " / " + wage, listStyle))
 				{
 					PhotonNetwork.JoinRoom(game.name);
+					playerMoney = playerMoney - wage;
+					PlayerPrefs.SetInt ("PlayerMoney", playerMoney);
+
 				}
 				//GUILayout.EndHorizontal();
 			}
