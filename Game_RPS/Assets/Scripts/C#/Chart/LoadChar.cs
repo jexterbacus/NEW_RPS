@@ -7,8 +7,8 @@ public class LoadChar : Photon.MonoBehaviour {
 	void Start () 
 	{
 		player = PhotonNetwork.Instantiate("PlayerChar", Vector3.zero, Quaternion.identity,0);
-		player.name = PlayerPrefs.GetString("playerName");
-		GetComponent<Chart>().AssignSlot(player);
+		//player.name = PlayerPrefs.GetString("playerName");
+		//GetComponent<Chart>().AssignSlot(player);
 		//photonView.RPC("AssignSlot",PhotonTargets.All);
 	}
 
